@@ -1,0 +1,58 @@
+ID,Question,Status,Prediction,Ground Truth,Time
+nu-911,in what year was the least money won?,✅ SUCCESS,1979,1979,3.81s
+nu-203,how many years were there more than 6 ma...,❌ CRASH,"There was an error running the output as Python code. Error message: invalid syntax (<string>, line 1)",4,4.65s
+nu-2252,which tournaments had a margin victory o...,✅ SUCCESS,"   No.         Date  \
+1    2  10 Aug 2003   
+3    4  26 Jun 2004   
+7    8   2 Dec 2007   
+8    9  26 Sep 2010   
+9   10   1 May 2011   
+
+                                                       Tournament  \
+1                                           Sun Chlorella Classic   
+3                                 Gateway to the Open Mizuno Open   
+7                                       Golf Nippon Series JT Cup   
+8  Asia-Pacific Panasonic Open\n(co-sanctioned by the Asian Tour)   
+9                                                      The Crowns   
+
+           Winning score Margin of\nvictory                       Runner(s)-up  
+1   −8 (71-73-68-68=280)           1 stroke  Daisuke Maruyama,  Taichi Teshima  
+3  −14 (67-68-70-69=274)            Playoff                     Hiroaki Iijima  
+7  −11 (70-70-68-61=261)           1 stroke                     Toru Taniguchi  
+8      −6 (71-70-66=207)           1 stroke                        Ryuichi Oda  
+9   −9 (67-66-68-70=271)            Playoff                        Jang Ik-jae  ",Sun Chlorella Classic|Golf Nippon Series JT Cup|Asia-Pacific Panasonic Open (co-sanctioned by the Asian Tour),2.04s
+nu-2005,what is the total number of pasarams?,✅ SUCCESS,7552,3776,1.76s
+nu-1827,which aircraft came in service first?,✅ SUCCESS,Beechcraft Super King Air 350,Aero Commander 500,2.31s
+nu-1142,what was the rams' largest margin of vic...,❌ CRASH,"There was an error running the output as Python code. Error message: invalid syntax (<string>, line 1)",35,6.69s
+nu-838,after 1900 how many entries are there?,✅ SUCCESS,22,22,2.97s
+nu-711,how many of the five largest flood on th...,✅ SUCCESS,"0    False
+1    False
+     ...  
+4     True
+5    False
+Length: 6, dtype: bool",2,2.76s
+nu-3455,what is the total amount of time it took...,✅ SUCCESS,63.44,63.44,3.02s
+nu-259,which tonga is the only one to feature c...,✅ SUCCESS,Cupronickel,5 seniti,2.46s
+nu-243,what was the first team played against i...,✅ SUCCESS,Ontario Fury,Ontario Fury,1.93s
+nu-766,what model has the top mpg (us gallons)?,✅ SUCCESS,Volkswagen Polo 1.4 TDI BLUEMOTION,Volkswagen Polo 1.4 TDI BLUEMOTION,2.18s
+nu-1790,what is the total number of championship...,✅ SUCCESS,5,5,2.74s
+nu-1904,which country did it take the longest to...,✅ SUCCESS,Poland,Poland,3.18s
+nu-4138,name of the festivals that had at least ...,✅ SUCCESS,"['Santa Barbara International Film Festival'
+ 'Seattle International Film Festival' 'Fantasia Festival'
+ 'Sitges Film Festival' 'Gwacheon International SF Festival' 'Icon TLV'
+ 'Indonesia Fantastic Film Festival' 'AFF']",Santa Barbara International Film Festival|Seattle International Film Festival|Fantasia Festival|Sitges Film Festival|Gwacheon International SF Festival|Icon TLV|Indonesia Fantastic Film Festival|AFF,2.22s
+nu-216,how many contestants were on the origina...,✅ SUCCESS,12,11,3.03s
+nu-1627,what is the name of the last place on th...,✅ SUCCESS,Sizerville,Sizerville,2.37s
+nu-3435,"australia, italy, and what other country...",✅ SUCCESS,"['Australia (AUS)', 'Italy (ITA)']",Switzerland (SUI),2.59s
+nu-1804,last year to not have a back sponsor?,❌ CRASH,"There was an error running the output as Python code. Error message: invalid syntax (<string>, line 1)",2008,5.96s
+nu-3678,how many ships are listed as a steamer?,✅ SUCCESS,10,10,2.11s
+nu-2277,only player to score more than 2 goals i...,✅ SUCCESS,Aloisi,Aloisi,2.82s
+nu-52,what city has a radio station called the...,✅ SUCCESS,Yankton,Yankton,2.70s
+nu-1306,"other than 2002, what is the only other ...",✅ SUCCESS,2002,2008,2.44s
+nu-3461,which movie was number one for the most ...,✅ SUCCESS,Starship Troopers,Titanic,2.38s
+nu-2786,how many games did the badgers play in o...,✅ SUCCESS,4,4,2.19s
+nu-2275,what is the total number of awards won i...,✅ SUCCESS,9,9,3.02s
+nu-1272,how many consecutive years was the team ...,✅ SUCCESS,10,10,3.60s
+nu-1762,who had a greater home score in the 1987...,✅ SUCCESS,Wismut Aue,Wismut Aue,3.90s
+nu-2756,what is the total number of affiliates i...,✅ SUCCESS,7,7,2.14s
+nu-836,what was the total number of points for ...,✅ SUCCESS,15.0,15,2.53s

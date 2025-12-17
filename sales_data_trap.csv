@@ -1,0 +1,7 @@
+id,region_nm,q1_val_est,q1_val_actual,cost_of_goods,manager_notes
+101,North-Am,12000,"$11,500",8000,Met target
+102,North-Am,15000,"$16,200",9500,Exceeded
+103,Eur-West,9000,"8,900",6000,Below expectation
+104,Eur-West,11000,"$11,000",7500,On track
+105,Asia-Pac,20000,-,12000,Data missing
+106,Asia-Pac,18000,"$19,500",13000,Strong growth

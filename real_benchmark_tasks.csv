@@ -1,0 +1,31 @@
+id,file,question,original_answer
+nu-911,benchmark_real\wtq_test_0.csv,in what year was the least money won?,1979
+nu-203,benchmark_real\wtq_test_1.csv,how many years were there more than 6 matches?,4
+nu-2252,benchmark_real\wtq_test_2.csv,which tournaments had a margin victory of at most 1 stroke?,Sun Chlorella Classic|Golf Nippon Series JT Cup|Asia-Pacific Panasonic Open (co-sanctioned by the Asian Tour)
+nu-2005,benchmark_real\wtq_test_3.csv,what is the total number of pasarams?,3776
+nu-1827,benchmark_real\wtq_test_4.csv,which aircraft came in service first?,Aero Commander 500
+nu-1142,benchmark_real\wtq_test_5.csv,what was the rams' largest margin of victory during the season?,35
+nu-838,benchmark_real\wtq_test_6.csv,after 1900 how many entries are there?,22
+nu-711,benchmark_real\wtq_test_7.csv,how many of the five largest flood on the river trent occurred after 1900?,2
+nu-3455,benchmark_real\wtq_test_8.csv,"what is the total amount of time it took the competitors of the 100, 200, and 300 meter race to complete the race?",63.44
+nu-259,benchmark_real\wtq_test_9.csv,which tonga is the only one to feature chicken with chicks?,5 seniti
+nu-243,benchmark_real\wtq_test_10.csv,what was the first team played against in the month of december?,Ontario Fury
+nu-766,benchmark_real\wtq_test_11.csv,what model has the top mpg (us gallons)?,Volkswagen Polo 1.4 TDI BLUEMOTION
+nu-1790,benchmark_real\wtq_test_12.csv,what is the total number of championships for tom landry as head coach?,5
+nu-1904,benchmark_real\wtq_test_13.csv,which country did it take the longest to finish?,Poland
+nu-4138,benchmark_real\wtq_test_14.csv,name of the festivals that had at least 2 dates.,Santa Barbara International Film Festival|Seattle International Film Festival|Fantasia Festival|Sitges Film Festival|Gwacheon International SF Festival|Icon TLV|Indonesia Fantastic Film Festival|AFF
+nu-216,benchmark_real\wtq_test_15.csv,how many contestants were on the original manobo tribe?,11
+nu-1627,benchmark_real\wtq_test_16.csv,what is the name of the last place on the table?,Sizerville
+nu-3435,benchmark_real\wtq_test_17.csv,"australia, italy, and what other country are listed with 3 total medals?",Switzerland (SUI)
+nu-1804,benchmark_real\wtq_test_18.csv,last year to not have a back sponsor?,2008
+nu-3678,benchmark_real\wtq_test_19.csv,how many ships are listed as a steamer?,10
+nu-2277,benchmark_real\wtq_test_20.csv,only player to score more than 2 goals in the fifa confederations cup,Aloisi
+nu-52,benchmark_real\wtq_test_21.csv,what city has a radio station called the wolf?,Yankton
+nu-1306,benchmark_real\wtq_test_22.csv,"other than 2002, what is the only other year that someone joined?",2008
+nu-3461,benchmark_real\wtq_test_23.csv,which movie was number one for the most weeks?,Titanic
+nu-2786,benchmark_real\wtq_test_24.csv,how many games did the badgers play in october?,4
+nu-2275,benchmark_real\wtq_test_25.csv,what is the total number of awards won in which the recipient was herself?,9
+nu-1272,benchmark_real\wtq_test_26.csv,how many consecutive years was the team in division 1?,10
+nu-1762,benchmark_real\wtq_test_27.csv,"who had a greater home score in the 1987-88 uefa cup, wismut aue or fc barcelona?",Wismut Aue
+nu-2756,benchmark_real\wtq_test_28.csv,what is the total number of affiliates in the state of chiapas?,7
+nu-836,benchmark_real\wtq_test_29.csv,what was the total number of points for alain prost and nelson piquet?,15
